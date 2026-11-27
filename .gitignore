@@ -1,0 +1,10 @@
+*.log
+*.evtx
+*.pcap
+.env
+*.pem
+*.key
+credentials*
+wazuh-passwords.txt
+.DS_Store
+Thumbs.db
